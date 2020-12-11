@@ -1,0 +1,98 @@
+#home
+    {
+        position: absolute;
+        top: 10%;
+        left: 50%
+    }
+#shop
+    {
+        position: absolute;
+        top: 10%;
+        left: 75%
+    }
+#intro
+    {
+        position: absolute;
+        top: 30%;
+        left: 17.5%;
+        right: 17.5%;
+        line-height: 2.0;
+        font-size: 20;
+        text-align: center;
+        font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif
+    }
+#homeimg
+    {
+        position: absolute;
+        left: 17.5%
+    }
+#img1
+    {
+        position: absolute;
+        top: 25%;
+        left: 17.5%
+    }
+#img2
+    {
+        position: absolute;
+        top: 25%;
+        left: 43.25%
+    }
+#img3
+    {
+        position: absolute;
+        top: 25%;
+        left: 69%
+    }
+#text1
+    {
+        position: absolute;
+        top: 65%;
+        left: 17.5%;
+        width: 200px
+    }
+#text2
+    {
+        position: absolute;
+        top: 65%;
+        left: 43.25%;
+        width: 200px
+    }
+#text3
+    {
+        position: absolute;
+        top: 65%;
+        left: 69%;
+        width: 200px
+    }
+#buy1
+    {
+        position: absolute;
+        top: 85%;
+        left: 25%;
+    }
+#buy2
+    {
+        position: absolute;
+        top: 85%;
+        left: 50%;
+    }
+#buy3
+    {
+        position: absolute;
+        top: 85%;
+        left: 75%;
+    }
+body
+    {
+        background-image: url("../images/ocean.jpg");
+        background-repeat: no-repeat;
+        background-position: center center;
+        color: #dde0c5;
+    }
+a
+    {
+        text-decoration: none;
+        color: #d3d9a3
+    }
+
